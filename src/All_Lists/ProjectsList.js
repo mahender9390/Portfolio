@@ -1,8 +1,7 @@
 import img1 from '../assets/insta.png'
 import img2 from '../assets/yt.png'
 import img3 from '../assets/google.png'
-import img4 from '../assets/tours-travel.png'
-import img5 from '../assets/media-player.png'
+import img4 from '../assets/sauce.png'
 
 const ProjectsList = [
     {
@@ -28,17 +27,10 @@ const ProjectsList = [
     },
     {
         id: 4,
-        title: 'Digital Clock (HTML, CSS, JavaScript)',
-        link: '#',
-        github: 'https://github.com/',
-        image: img4
-    },
-    {
-        id: 5,
         title: 'SauceLabs Automation Testing (Selenium)',
-        link: '#',
+        // link: '#',
         github: 'https://github.com/mahender9390/saucelabs/tree/saucelab_automation_project',
-        image: img5
+        image: img4
     }
 ]
 
