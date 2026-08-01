@@ -14,11 +14,11 @@ function Home() {
 
   const social = [
     {
-      link: 'https://www.linkedin.com',
+      link: 'https://www.linkedin.com/in/vennapureddy-mahender',
       icon: <FaLinkedinIn />,
     },
     {
-      link: 'https://github.com',
+      link: 'https://github.com/mahender9390',
       icon: <AiFillGithub />,
     }
   ]
@@ -32,7 +32,7 @@ function Home() {
         <p data-aos='fade-left'>
           I'm a B.Tech Computer Science student specializing in front-end web development.
           I enjoy building responsive and user-friendly web applications using HTML, CSS, JavaScript, and React.
-          I also have strong foundations in Java, SQL, Python, and C programming.
+          I also have strong foundations in Java, SQL, and Python.
         </p>
 
         <div data-aos='fade-up' className='flex mt-8 gap-2'>

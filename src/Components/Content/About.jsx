@@ -23,7 +23,7 @@ function About() {
           Hello, I'm Mahender Vennapureddy, a Computer Science Engineering student pursuing my B.Tech (2026).
           I have a strong interest in front-end development and enjoy creating responsive and interactive web interfaces.
           <br /><br />
-          My technical skills include HTML5, CSS, JavaScript, Java, SQL, Python, C Programming, and PHP.
+          My technical skills include HTML5, CSS, JavaScript, Java, SQL, Python, and PHP.
           I have worked on multiple web-based projects including UI clones and JavaScript applications.
           <br /><br />
           I am continuously learning and improving my skills while aiming to contribute to real-world software projects.
